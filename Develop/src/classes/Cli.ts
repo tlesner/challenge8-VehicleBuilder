@@ -126,7 +126,7 @@ class Cli {
           name: 'topSpeed',
           message: 'Enter Top Speed',
         },
-        
+
       ])
       .then((answers) => {
         const car = new Car(
@@ -440,7 +440,7 @@ class Cli {
           for (let i = 0; i < this.vehicles.length; i++) {
             if (this.vehicles[i].vin === this.selectedVehicleVin) {
               if (this.vehicles[i] instanceof Motorbike) {
-                console.log(this.vehicles[i]);
+                // console.log(this.vehicles[i]);
                 (this.vehicles[i] as Motorbike).wheelie();
               } else {
                 console.log('Only Motorbikes can do sick wheelies!');
