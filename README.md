@@ -49,7 +49,7 @@ This application was developed by Thomas Lesner. Here are some guidelines on way
 
 The application is working correctly if it throws no exceptions and if the selections work as expected.
 
-[Click here]() for a walkthrough video of how the application works!
+[Click here](https://drive.google.com/file/d/1YsgvEYg8k0gqn8MLsKu7CjtNlT2_S-uQ/view?usp=sharing) for a walkthrough video of how the application works!
 
 ## License
 
